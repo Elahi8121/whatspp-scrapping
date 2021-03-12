@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "playwright": "0.10.0"
+  },
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "code.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
